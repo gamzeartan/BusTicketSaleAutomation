@@ -1,0 +1,447 @@
+Data Time:29.04.2020 16:48:19,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 16:59:51,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:00:17,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:00:18,Exception Name:Geçmiş seferleri listeleme işlemi yapıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button53,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:00:20,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:01:33,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:01:35,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:23:57,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:24:18,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:24:34,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:24:39,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:24:46,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:24:49,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:24:50,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:25:28,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:25:42,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:25:48,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:26:26,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:26:38,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:26:52,Exception Name:Giriş dizesi doğru biçimde değildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:27:00,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:31:27,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:31:40,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:31:59,Exception Name:Bilet rezerve etme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button66,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:32:00,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:33:08,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:33:18,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:33:27,Exception Name:Bu bilgilere ait rezerve bilet olmadığı için iptal işlemi gerçekleştirilemedi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnIptal,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:33:28,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:35:40,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:35:56,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:36:10,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:36:14,Exception Name:Bilet alınmış sefer silinmeye çalışıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button5,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:36:17,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:38:58,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:39:12,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:39:13,Exception Name:Geçmiş seferleri listeleme işlemi yapıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button53,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:39:20,Exception Name:Sefer kapasitesini aşan koltuk numarası seçildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button37,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:39:30,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:39:43,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:39:52,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:40:02,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:40:06,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:40:18,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:40:31,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:40:38,Exception Name:Sefer kapasitesini aşan koltuk numarası seçildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button41,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:40:47,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:40:52,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:41:15,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:41:27,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:41:43,Exception Name:Bilet rezerve etme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button66,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:42:00,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:42:11,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:42:15,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:42:16,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:42:21,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:42:51,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:43:02,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:43:16,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:43:20,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:43:21,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:43:21,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:43:21,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:43:21,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:43:21,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:43:22,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:43:22,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:43:22,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:43:23,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:43:23,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:43:23,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:43:24,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:43:25,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:43:25,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:43:26,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:45:29,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:45:43,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:45:50,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:48:32,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:48:43,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:48:46,Exception Name:Girilen bilete ait bilet bilgisi bulunamadığından iptal işlemi gerçekleştirilemedi.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:48:58,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:48:59,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:49:00,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:49:00,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:49:01,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:49:01,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:49:02,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:49:03,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:49:26,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:49:35,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:49:43,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:49:46,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:49:47,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:49:47,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:49:47,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:49:47,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:49:47,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:49:48,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:50:06,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:50:17,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:50:24,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:50:27,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:50:28,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:50:28,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:50:28,Exception Name:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:50:29,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:51:13,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:51:22,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:51:30,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:52:17,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:52:27,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:52:37,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:54:40,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:54:49,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 17:54:59,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 18:09:45,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 18:10:14,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 20:52:44,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 20:53:00,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 20:53:09,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 20:53:17,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 20:53:27,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 20:53:44,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 20:53:50,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 20:58:05,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 20:58:20,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 20:58:31,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 20:58:35,Exception Name:Sefer silme işlemi yapıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button5,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 20:58:41,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 20:58:51,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 20:58:57,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 20:59:13,Exception Name:Bilet rezerve etme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button66,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 20:59:34,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:11:05,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:11:42,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:13:17,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:13:25,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:13:49,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:13:57,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:15:50,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:16:08,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:16:09,Exception Name:Geçmiş seferleri listeleme işlemi yapıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button53,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:16:21,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:16:28,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:31:05,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:31:20,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:33:49,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:34:03,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:34:13,Exception Name:Bilet rezerve etme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button66,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:34:19,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:34:24,Exception Name:Bilet rezerve etme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button66,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:34:27,Exception Name:Bilet rezerve etme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button66,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:34:33,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:34:43,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:34:58,Exception Name:Rezerve bilet iptal edildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnIptal,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:34:59,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:35:01,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:42:49,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:42:59,Exception Name:Geçmiş seferleri listeleme işlemi yapıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button53,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:43:25,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:43:26,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:43:29,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:46:17,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:46:19,Exception Name:Geçmiş seferleri listeleme işlemi yapıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button53,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:46:33,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:46:34,Exception Name:Geçmiş seferleri listeleme işlemi yapıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button53,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:46:38,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:51:36,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:51:55,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:59:38,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:59:51,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 21:59:59,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:00:09,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:04:37,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:04:50,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:05:07,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:05:32,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:05:43,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:05:56,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:17:20,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:17:59,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:18:35,Exception Name:Bilet rezerve etme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button66,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:18:52,Exception Name:Bilet silme işlemi gerçekleştirildi.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:19:37,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:19:40,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:19:48,Exception Name:Bilet silme işlemi gerçekleştirildi.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:20:11,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:24:10,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:24:20,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:28:14,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:28:22,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:28:37,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:28:43,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:29:51,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:29:58,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:30:27,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:30:33,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:31:43,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:31:47,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:32:06,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:32:10,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:32:21,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:32:29,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:32:43,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:32:49,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:33:11,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:33:15,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:34:00,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:34:03,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:38:37,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:38:49,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:39:24,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:39:28,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:39:41,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:39:47,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:50:27,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:50:31,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:50:39,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:50:51,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:51:41,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:51:50,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:53:50,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:54:05,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:56:14,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 22:56:30,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:07:35,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:07:37,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:08:10,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:08:27,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:08:30,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:08:32,Exception Name:Geçmiş seferleri listeleme işlemi yapıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button53,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:08:41,Exception Name:Giriş dizesi doğru biçimde değildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button4,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:08:44,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:08:47,Exception Name:Giriş dizesi doğru biçimde değildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button4,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:08:50,Exception Name:Giriş dizesi doğru biçimde değildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button4,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:08:56,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:08:57,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:09:15,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:09:30,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:09:31,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:09:40,Exception Name:Kaptan güncelleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button4,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:09:42,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:09:44,Exception Name:Geçmiş seferleri listeleme işlemi yapıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button53,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:09:53,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:10:06,Exception Name:Bilet rezerve etme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button66,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:10:08,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:10:23,Exception Name:Bilet silme işlemi gerçekleştirildi.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:10:25,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:10:34,Exception Name:Rezerve bilet iptal edildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnIptal,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:10:34,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:10:41,Exception Name:Bilet rezerve etme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button66,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:10:45,Exception Name:Bilet silme işlemi gerçekleştirildi.,Event Name:System.EventArgs,Control Name:button51,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:11:06,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:11:17,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:11:34,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:29.04.2020 23:11:47,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:21:50,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:22:11,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:22:14,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:23:30,Exception Name:Kaptan güncelleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button4,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:23:32,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:23:35,Exception Name:Geçmiş seferleri listeleme işlemi yapıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button53,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:24:03,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:24:15,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:24:40,Exception Name:Bilet rezerve etme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button66,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:24:41,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:25:20,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:26:09,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:26:47,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:26:48,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:26:50,Exception Name:Geçmiş seferleri listeleme işlemi yapıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button53,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:26:53,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:27:00,Exception Name:Sefer kapasitesini aşan koltuk numarası seçildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button29,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:27:14,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:27:28,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:27:37,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:30:03,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:30:15,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:30:54,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:31:03,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:31:19,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:31:44,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:32:16,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:32:29,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:35:12,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:35:15,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:38:00,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:38:37,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:38:39,Exception Name:Sefer kapasitesini aşan koltuk numarası seçildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button29,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:38:50,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:38:57,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:38:59,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:42:27,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:42:46,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:42:47,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:42:57,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:44:40,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:44:56,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:44:57,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:45:11,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:48:02,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:48:16,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:48:17,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:48:32,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:50:06,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:50:21,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:50:22,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:50:27,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:51:14,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:51:42,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:51:43,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:51:48,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:52:09,Exception Name:Bilet rezerve etme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button66,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:52:09,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:52:33,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:52:47,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:53:02,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:53:12,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:53:14,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:53:31,Exception Name:Bilet rezerve etme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button66,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:53:32,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:53:49,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:56:59,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:57:08,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:58:44,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 11:59:08,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:00:20,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:00:35,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:15:55,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:16:07,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:17:04,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:17:24,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:25:04,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:25:20,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:25:21,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:25:24,Exception Name:Geçmiş seferleri listeleme işlemi yapıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button53,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:25:48,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:25:50,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:26:20,Exception Name:Bilet rezerve etme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button66,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:26:21,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:27:29,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:29:55,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:30:17,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:30:18,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:31:05,Exception Name:Geçmiş seferleri listeleme işlemi yapıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button53,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:31:24,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:35:33,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:35:47,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:35:48,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:35:56,Exception Name:Geçmiş seferleri listeleme işlemi yapıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button53,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:36:20,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:37:05,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:37:21,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:37:22,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:37:32,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:38:31,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:39:01,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:39:08,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:39:17,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:39:19,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:39:19,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:39:31,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:42:50,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:43:04,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:45:52,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:46:53,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:46:54,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:46:58,Exception Name:Geçmiş seferleri listeleme işlemi yapıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button53,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:48:13,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:48:15,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:48:45,Exception Name:Bilet rezerve etme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button66,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:48:46,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:50:36,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:50:55,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:51:10,Exception Name:Sefer ekleme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button2,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:51:10,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:51:35,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:51:37,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:52:53,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:58:12,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:58:14,Exception Name:Geçmiş seferleri listeleme işlemi yapıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button53,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 12:58:17,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 13:18:27,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 13:18:30,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 14:03:32,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 15:37:37,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:30.04.2020 15:37:40,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:36:53,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:37:06,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:37:25,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:37:49,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:40:17,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:42:08,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:45:05,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:45:15,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:49:28,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:50:01,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:50:03,Exception Name:Geçmiş seferleri listeleme işlemi yapıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button53,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:50:07,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:50:17,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:50:27,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:50:28,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:51:09,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:51:42,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:51:59,Exception Name:Geçmiş seferleri listeleme işlemi yapıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button53,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:52:02,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:52:33,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:53:10,Exception Name:Sefer kapasitesini aşan koltuk numarası seçildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button39,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:53:22,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:53:51,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:53:54,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:53:56,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:54:06,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:54:46,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:55:13,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:55:13,Exception Name:Geçmiş seferleri listeleme işlemi yapıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button53,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:55:38,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:55:41,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:56:03,Exception Name:Bilet rezerve etme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button66,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:56:04,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:56:22,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:56:35,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:57:27,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:57:35,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:59:42,Exception Name:Bilet rezerve etme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button66,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:59:57,Exception Name:Bilet rezerve etme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button66,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 15:59:59,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 16:00:32,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 16:04:28,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 16:05:13,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 16:05:16,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 16:05:51,Exception Name:Bilet rezerve etme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button66,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 16:05:53,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 16:06:00,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 16:11:30,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 16:22:31,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 16:23:12,Exception Name:Geçmiş seferleri listeleme işlemi yapıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button53,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 16:24:23,Exception Name:Seferler listelendi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button7,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 16:25:03,Exception Name:Sefer kapasitesini aşan koltuk numarası seçildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button29,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 16:25:17,Exception Name:Bilet satın alma işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button65,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 16:25:26,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 16:25:58,Exception Name:Bilet rezerve etme işlemi gerçekleştirildi.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button66,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 16:25:59,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:1.05.2020 16:26:43,Exception Name:Sefer koltuk bilgisi gösterilip sefer geliri hesaplandı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:btnKoltukListesi,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:14.05.2020 18:27:40,Exception Name:Program başlatıldı.,Event Name:System.EventArgs,Control Name:FrmSeferKaydet,Error Line No.:0,Form Name:FrmSeferKaydet
+Data Time:14.05.2020 18:27:43,Exception Name:Program kapatıldı.,Event Name:System.Windows.Forms.MouseEventArgs,Control Name:button3,Error Line No.:0,Form Name:FrmSeferKaydet

@@ -1,0 +1,50 @@
+C:\Users\SILA\source\repos\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr-u_sefer.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr_u_sefer.Form1.resources
+C:\Users\SILA\source\repos\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr_u_sefer.FrmBiletIslemleri.resources
+C:\Users\SILA\source\repos\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr_u_sefer.FrmSeferIslemleri.resources
+C:\Users\SILA\source\repos\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr_u_sefer.Properties.Resources.resources
+C:\Users\SILA\source\repos\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr-u_sefer.csproj.GenerateResource.cache
+C:\Users\SILA\source\repos\seyr-u_sefer\seyr-u_sefer\bin\Debug\seyr-u_sefer.exe.config
+C:\Users\SILA\source\repos\seyr-u_sefer\seyr-u_sefer\bin\Debug\seyr-u_sefer.exe
+C:\Users\SILA\source\repos\seyr-u_sefer\seyr-u_sefer\bin\Debug\seyr-u_sefer.pdb
+C:\Users\SILA\source\repos\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr-u_sefer.exe
+C:\Users\SILA\source\repos\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr-u_sefer.pdb
+C:\Users\SILA\source\repos\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr_u_sefer.SeferListele.resources
+C:\Users\SILA\source\repos\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr_u_sefer.SeferSil.resources
+C:\Users\gamze\source\repos\seyr-u_sefer\seyr-u_sefer\bin\Debug\seyr-u_sefer.exe.config
+C:\Users\gamze\source\repos\seyr-u_sefer\seyr-u_sefer\bin\Debug\seyr-u_sefer.exe
+C:\Users\gamze\source\repos\seyr-u_sefer\seyr-u_sefer\bin\Debug\seyr-u_sefer.pdb
+C:\Users\gamze\source\repos\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr-u_sefer.csprojAssemblyReference.cache
+C:\Users\gamze\source\repos\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr_u_sefer.Form1.resources
+C:\Users\gamze\source\repos\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr_u_sefer.FrmBiletIslemleri.resources
+C:\Users\gamze\source\repos\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr_u_sefer.FrmSeferKaydet.resources
+C:\Users\gamze\source\repos\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr_u_sefer.Properties.Resources.resources
+C:\Users\gamze\source\repos\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr_u_sefer.SeferListele.resources
+C:\Users\gamze\source\repos\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr_u_sefer.SeferSil.resources
+C:\Users\gamze\source\repos\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr-u_sefer.csproj.GenerateResource.cache
+C:\Users\gamze\source\repos\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr-u_sefer.exe
+C:\Users\gamze\source\repos\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr-u_sefer.pdb
+C:\Users\SILA\Downloads\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\bin\Debug\seyr-u_sefer.exe.config
+C:\Users\SILA\Downloads\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\bin\Debug\seyr-u_sefer.exe
+C:\Users\SILA\Downloads\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\bin\Debug\seyr-u_sefer.pdb
+C:\Users\SILA\Downloads\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr-u_sefer.csprojAssemblyReference.cache
+C:\Users\SILA\Downloads\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr_u_sefer.Form1.resources
+C:\Users\SILA\Downloads\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr_u_sefer.FrmBiletIslemleri.resources
+C:\Users\SILA\Downloads\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr_u_sefer.FrmSeferKaydet.resources
+C:\Users\SILA\Downloads\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr_u_sefer.Properties.Resources.resources
+C:\Users\SILA\Downloads\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr_u_sefer.SeferListele.resources
+C:\Users\SILA\Downloads\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr_u_sefer.SeferSil.resources
+C:\Users\SILA\Downloads\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr-u_sefer.csproj.GenerateResource.cache
+C:\Users\SILA\Downloads\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr-u_sefer.exe
+C:\Users\SILA\Downloads\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr-u_sefer.pdb
+C:\Users\gamze\OneDrive\Masaüstü\proje_enson\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\bin\Debug\seyr-u_sefer.exe.config
+C:\Users\gamze\OneDrive\Masaüstü\proje_enson\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\bin\Debug\seyr-u_sefer.exe
+C:\Users\gamze\OneDrive\Masaüstü\proje_enson\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\bin\Debug\seyr-u_sefer.pdb
+C:\Users\gamze\OneDrive\Masaüstü\proje_enson\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr-u_sefer.csprojAssemblyReference.cache
+C:\Users\gamze\OneDrive\Masaüstü\proje_enson\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr_u_sefer.FrmGiris.resources
+C:\Users\gamze\OneDrive\Masaüstü\proje_enson\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr_u_sefer.FrmSeferKaydet.resources
+C:\Users\gamze\OneDrive\Masaüstü\proje_enson\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr_u_sefer.Properties.Resources.resources
+C:\Users\gamze\OneDrive\Masaüstü\proje_enson\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr-u_sefer.csproj.GenerateResource.cache
+C:\Users\gamze\OneDrive\Masaüstü\proje_enson\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr-u_sefer.exe
+C:\Users\gamze\OneDrive\Masaüstü\proje_enson\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr-u_sefer.pdb
+C:\Users\gamze\OneDrive\Masaüstü\proje_enson\seyr-u_sefer (1)\seyr-u_sefer\seyr-u_sefer\obj\Debug\seyr_u_sefer.FrmOneriSikayet.resources

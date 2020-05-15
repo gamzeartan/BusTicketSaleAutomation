@@ -1,0 +1,91 @@
+
+Sefer no::1,Güzergah:Kocaeli-İstanbul,Tarih:29.04.2020 21:46:17,Kapasite:30,
+Plaka:sdf,Kaptan:sdfsdf,Bilet fiyatı:30
+---
+Sefer no::1,Güzergah:Ankara-Kocaeli,Tarih:29.04.2020 21:59:38,Kapasite:30,
+Plaka:hffgh,Kaptan:fghgh,Bilet fiyatı:35
+---
+Sefer no::1,Güzergah:Kocaeli-Ankara,Tarih:29.04.2020 22:04:37,Kapasite:15,
+Plaka:asds,Kaptan:asds,Bilet fiyatı:28
+---
+Sefer no::1,Güzergah:Kocaeli-Ankara,Tarih:29.04.2020 22:17:20,Kapasite:15,
+Plaka:23VT567,Kaptan:gamze artan,Bilet fiyatı:55
+---
+Sefer no::1,Güzergah:Ankara-Kocaeli,Tarih:29.04.2020 23:08:10,Kapasite:30,
+Plaka:34t5656,Kaptan:asd,Bilet fiyatı:30
+---
+Sefer no::1,Güzergah:Ankara-Kocaeli,Tarih:29.04.2020 23:09:15,Kapasite:30,
+Plaka:vxvxcv,Kaptan:gamze,Bilet fiyatı:30
+---
+Sefer no::1,Güzergah:Ankara-Kocaeli,Tarih:29.04.2020 23:11:06,Kapasite:15,
+Plaka:fdgdfg,Kaptan:sfggf,Bilet fiyatı:30
+---
+Sefer no::1,Güzergah:Kocaeli-İstanbul,Tarih:30.04.2020 11:21:50,Kapasite:30,
+Plaka:41t4545,Kaptan:gamze artan,Bilet fiyatı:30
+---
+Sefer no::2,Güzergah:İstanbul-Kocaeli,Tarih:30.04.2020 11:26:09,Kapasite:30,
+Plaka:34r4545,Kaptan:ali demir,Bilet fiyatı:35
+---
+Sefer no::3,Güzergah:Kocaeli-İzmir,Tarih:30.04.2020 11:38:00,Kapasite:30,
+Plaka:12t4545,Kaptan:ahmet,Bilet fiyatı:30
+---
+Sefer no::5,Güzergah:Kocaeli-İstanbul,Tarih:30.04.2020 11:42:27,Kapasite:45,
+Plaka:34r5656,Kaptan:fuat,Bilet fiyatı:35
+---
+Sefer no::1,Güzergah:Kocaeli-İstanbul,Tarih:30.04.2020 11:44:40,Kapasite:45,
+Plaka:34rt5656,Kaptan:adnan,Bilet fiyatı:40
+---
+Sefer no::1,Güzergah:Kocaeli-İstanbul,Tarih:30.04.2020 11:48:02,Kapasite:15,
+Plaka:12er3434,Kaptan:aslı,Bilet fiyatı:30
+---
+Sefer no::5,Güzergah:Ankara-Kocaeli,Tarih:30.04.2020 11:50:05,Kapasite:15,
+Plaka:34tr5656,Kaptan:gamze artan,Bilet fiyatı:30
+---
+Sefer no::1,Güzergah:Ankara-Kocaeli,Tarih:30.04.2020 11:51:14,Kapasite:30,
+Plaka:23r4545,Kaptan:sıla taşyürek,Bilet fiyatı:35
+---
+Sefer no::1,Güzergah:Ankara-Kocaeli,Tarih:30.04.2020 11:52:33,Kapasite:30,
+Plaka:34t4545,Kaptan:gamze,Bilet fiyatı:30
+---
+Sefer no::5,Güzergah:İstanbul-Kocaeli,Tarih:30.04.2020 12:25:04,Kapasite:15,
+Plaka:34tr4545,Kaptan:asd,Bilet fiyatı:35
+---
+Sefer no::1,Güzergah:Kocaeli-İzmir,Tarih:30.04.2020 12:29:55,Kapasite:45,
+Plaka:12se3434,Kaptan:asdf,Bilet fiyatı:35
+---
+Sefer no::1,Güzergah:Kocaeli-Ankara,Tarih:30.04.2020 12:35:33,Kapasite:30,
+Plaka:12er34,Kaptan:asdfg,Bilet fiyatı:35
+---
+Sefer no::1,Güzergah:İstanbul-Kocaeli,Tarih:30.04.2020 12:37:05,Kapasite:45,
+Plaka:12er3434,Kaptan:ert,Bilet fiyatı:30
+---
+Sefer no::1,Güzergah:Kocaeli-Ankara,Tarih:30.04.2020 12:38:31,Kapasite:15,
+Plaka:23vt456,Kaptan:sıla taş,Bilet fiyatı:28
+---
+Sefer no::1,Güzergah:Ankara-Kocaeli,Tarih:30.04.2020 12:45:52,Kapasite:15,
+Plaka:34t4545,Kaptan:Sıla Taş,Bilet fiyatı:45
+---
+Sefer no::2,Güzergah:Kocaeli-İstanbul,Tarih:30.04.2020 12:45:52,Kapasite:45,
+Plaka:41t5656,Kaptan:Sıla Taş,Bilet fiyatı:45
+---
+Sefer no::1,Güzergah:Kocaeli-İstanbul,Tarih:1.05.2020 15:49:28,Kapasite:30,
+Plaka:lkljlk,Kaptan:hjkjh,Bilet fiyatı:35
+---
+Sefer no::1,Güzergah:İstanbul-Kocaeli,Tarih:1.05.2020 15:52:33,Kapasite:45,
+Plaka:41t2020,Kaptan:ali taş,Bilet fiyatı:40
+---
+Sefer no::2,Güzergah:Kocaeli-İzmir,Tarih:1.05.2020 15:52:33,Kapasite:48,
+Plaka:41t2020,Kaptan:ali taş,Bilet fiyatı:40
+---
+Sefer no::5,Güzergah:Kocaeli-İzmir,Tarih:2.05.2020 15:54:46,Kapasite:45,
+Plaka:41t2121,Kaptan:ali taş,Bilet fiyatı:35
+---
+Sefer no::6,Güzergah:İstanbul-Kocaeli,Tarih:2.05.2020 15:54:46,Kapasite:30,
+Plaka:34y4545,Kaptan:ali taş,Bilet fiyatı:45
+---
+Sefer no::7,Güzergah:Ankara-Kocaeli,Tarih:1.05.2020 16:04:28,Kapasite:30,
+Plaka:34t4545,Kaptan:ali il,Bilet fiyatı:35
+---
+Sefer no::8,Güzergah:Kocaeli-İstanbul,Tarih:2.05.2020 16:22:31,Kapasite:30,
+Plaka:41tr46,Kaptan:asf,Bilet fiyatı:35
+---

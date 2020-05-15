@@ -1,0 +1,9 @@
+SEFER BİLGİLERİ--->  Sefer No: 1 Güzergah: Ankara-Kocaeli Kaptan: Sıla Taş Plaka: 34t4545 Kapasite: 15 Bilet Fiyatı: 45 Tarih/Saat: 30.04.2020 12:45:52
+Dolu Koltuk No: 6 Ad Soyad: Gamze Artan
+Dolu Koltuk No: 1 Ad Soyad: Ayşe Alın
+Dolu Koltuk No: 9 Ad Soyad: Ahmet Demir
+Rezerve Koltuk No: 4 Ad Soyad: Ali Aç
+Sefer Gelir: 135
+SEFER BİLGİLERİ--->  Sefer No: 2 Güzergah: Kocaeli-İstanbul Kaptan: Sıla Taş Plaka: 41t5656 Kapasite: 45 Bilet Fiyatı: 45 Tarih/Saat: 30.04.2020 12:45:52
+Dolu Koltuk No: 1 Ad Soyad: Ali Kır
+Sefer Gelir: 45
